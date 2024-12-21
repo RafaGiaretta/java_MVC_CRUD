@@ -1,0 +1,13 @@
+.panel-default>.panel-heading,
+.modal-header {
+	border-color: #FFF;
+	font-weight: bold;
+	font-size: 16px;
+	text-shadow: none;
+	background: #0866C6;
+	color: #FFF;
+}
+
+#containerTable {
+	height: 500px;
+}	
